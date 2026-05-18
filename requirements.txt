@@ -1,0 +1,13 @@
+fastapi
+jose
+passlib
+pydantic
+sqlalchemy
+asyncpg
+alembic     
+starlette
+pydantic_settings
+uvicorn
+python-dotenv
+email-validator
+python-jose[cryptography]
