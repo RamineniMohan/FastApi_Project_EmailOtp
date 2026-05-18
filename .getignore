@@ -1,3 +1,4 @@
 .env
-venv
-__pycatch__
+venv/
+__pycache__/
+*.pyc
